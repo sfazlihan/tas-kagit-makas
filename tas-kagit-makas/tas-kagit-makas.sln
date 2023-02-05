@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tas-kagit-makas", "tas-kagit-makas.csproj", "{3CD72AC7-D4B3-42D6-B124-F1AB69335C3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CD72AC7-D4B3-42D6-B124-F1AB69335C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD72AC7-D4B3-42D6-B124-F1AB69335C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD72AC7-D4B3-42D6-B124-F1AB69335C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD72AC7-D4B3-42D6-B124-F1AB69335C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBF3B5DD-66EB-4FC7-8893-213BC6547213}
+	EndGlobalSection
+EndGlobal
